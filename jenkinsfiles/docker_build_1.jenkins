@@ -1,5 +1,3 @@
-jenkinsfiles/docker_build.jenkins
-
 #!groovy
 // Run docker build
 properties([disableConcurrentBuilds()])
